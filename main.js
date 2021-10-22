@@ -2,7 +2,7 @@ const linksSocialMedia = {
     github: "Wesley-Oliveira-Dev",
     youtube: "Wesley KOLD",
     facebook: "Wesley Oliveira",
-    instagram: "wes_kold",
+    instagram: "wes.kold",
     twitter: "weskold"         
 }
 
